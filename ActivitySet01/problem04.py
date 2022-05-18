@@ -1,4 +1,3 @@
-
 scre = input("Enter Score:")
 scre=float(scre)
 x=0.6
