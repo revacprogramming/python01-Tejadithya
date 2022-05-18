@@ -1,3 +1,4 @@
 # Dictionaries
 
-filename = "dataset/mbox-short.txt"
+a = banana
+print(len(a))
